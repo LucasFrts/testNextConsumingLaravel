@@ -11,9 +11,11 @@
 # next.js
 /.next/
 /out/
-
+Dockerfile
+fly.toml
 # production
 /build
+.dockerignore
 
 # misc
 .DS_Store

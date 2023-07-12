@@ -1,5 +1,5 @@
 import RootLayout from "@/app/layout"
-import Table from "./Table"
+import Table from "../../components/users/Table"
 import { useEffect, useState } from "react";
 import axios from "axios";
 import Link from "next/link";
